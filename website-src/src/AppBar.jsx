@@ -37,27 +37,27 @@ const AppBar2 = () => {
 
           <img className="logo" width="200" src="green-seal.png"/>
 
-	      <Link color="inherit" href="/farm-products">
+	      <Link color="inherit" href="#farm-products">
 	        Farm Products
             <span>&nbsp;|&nbsp;</span>
 	      </Link>
 
-	      <Link color="inherit" href="/ecosystems">
+	      <Link color="inherit" href="#ecosystems">
 	        Ecosystems
             <span>&nbsp;|&nbsp;</span>
 	      </Link>
 
-	      <Link color="inherit" href="/learn">
+	      <Link color="inherit" href="#learn">
 	        Learn @ Farm
             <span>&nbsp;|&nbsp;</span>
 	      </Link>
 
-	      <Link color="inherit" href="/work">
+	      <Link color="inherit" href="#work">
 	        Work @ Farm
             <span>&nbsp;|&nbsp;</span>
 	      </Link>
 
-	      <Link color="inherit" href="/about">
+	      <Link color="inherit" href="#about">
 	        About
 	      </Link>
 
